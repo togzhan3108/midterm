@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "time-management-icon-png-25.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
