@@ -1,10 +1,4 @@
-//
-//  UserViewController.swift
-//  Midterm
-//
-//  Created by Тогжан Салимова on 10/17/20.
-//  Copyright © 2020 Тогжан Салимова. All rights reserved.
-//
+
 
 import UIKit
 

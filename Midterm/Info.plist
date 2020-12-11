@@ -53,6 +53,12 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSCameraUsageDescription</key>
+	<string>We can</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Because we can!</string>
+	<key>NSContactsUsageDescription</key>
+	<string>I want to use!</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>Please allow to see current location.</string>
 </dict>

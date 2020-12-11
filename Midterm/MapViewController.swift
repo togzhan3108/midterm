@@ -1,10 +1,4 @@
-//
-//  MapViewController.swift
-//  Midterm
-//
-//  Created by Тогжан Салимова on 10/16/20.
-//  Copyright © 2020 Тогжан Салимова. All rights reserved.
-//
+
 import CoreLocation
 import MapKit
 import UIKit

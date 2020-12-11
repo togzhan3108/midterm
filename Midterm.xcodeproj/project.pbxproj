@@ -10,6 +10,9 @@
 		602E6E109F9690BACCF90149 /* Pods_Midterm.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4D40B16A7C0D5A586F583E7 /* Pods_Midterm.framework */; };
 		B119D99F2547C53C0001C9FC /* HolidaysTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B119D99E2547C53C0001C9FC /* HolidaysTableViewController.swift */; };
 		B135BA76253A1CB100B98F34 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B135BA75253A1CB100B98F34 /* LoginViewController.swift */; };
+		B156598225834ADC00112F15 /* MottoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B156598125834ADC00112F15 /* MottoViewController.swift */; };
+		B15659882583664600112F15 /* ContactViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B15659872583664600112F15 /* ContactViewController.swift */; };
+		B156598B258367D700112F15 /* ContactStruct.swift in Sources */ = {isa = PBXBuildFile; fileRef = B156598A258367D700112F15 /* ContactStruct.swift */; };
 		B176A85F253975AF00EA3EE6 /* Holiday.swift in Sources */ = {isa = PBXBuildFile; fileRef = B176A85E253975AF00EA3EE6 /* Holiday.swift */; };
 		B176A8612539780A00EA3EE6 /* HolidayRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = B176A8602539780A00EA3EE6 /* HolidayRequest.swift */; };
 		B1B735552538BDAA00BA1B14 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1B735542538BDAA00BA1B14 /* AppDelegate.swift */; };
@@ -20,19 +23,21 @@
 		B1B735612538BDAC00BA1B14 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B1B7355F2538BDAC00BA1B14 /* LaunchScreen.storyboard */; };
 		B1B735692538CE0300BA1B14 /* CalendarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1B735682538CE0300BA1B14 /* CalendarViewController.swift */; };
 		B1DA03182539C55B00DB699D /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1DA03172539C55B00DB699D /* MapViewController.swift */; };
-		B1DA031A2539EDD700DB699D /* CountryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1DA03192539EDD700DB699D /* CountryViewController.swift */; };
-		B1DA031C253A014200DB699D /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1DA031B253A014200DB699D /* CustomTableViewCell.swift */; };
-		B1E8D740253AED4800AEC11E /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1E8D73F253AED4800AEC11E /* DetailViewController.swift */; };
-		B1E8D742253AF01D00AEC11E /* Custom2TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1E8D741253AF01D00AEC11E /* Custom2TableViewCell.swift */; };
 		B1E8D74A253B611100AEC11E /* DevelopersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1E8D749253B611100AEC11E /* DevelopersViewController.swift */; };
 		B1E8D74C253B619A00AEC11E /* UserViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1E8D74B253B619A00AEC11E /* UserViewController.swift */; };
 		B1E8D74E253B61EA00AEC11E /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1E8D74D253B61EA00AEC11E /* Models.swift */; };
+		B1F741D82580BFF10061C121 /* ToDoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1F741D72580BFF10061C121 /* ToDoViewController.swift */; };
+		B1F741DB2580C0370061C121 /* DatePickerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1F741DA2580C0370061C121 /* DatePickerViewController.swift */; };
+		B1F741DE2580C1710061C121 /* ThingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1F741DD2580C1710061C121 /* ThingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		0DF2E32A71D0E74275CDD8A0 /* Pods-Midterm.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Midterm.debug.xcconfig"; path = "Target Support Files/Pods-Midterm/Pods-Midterm.debug.xcconfig"; sourceTree = "<group>"; };
 		B119D99E2547C53C0001C9FC /* HolidaysTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HolidaysTableViewController.swift; sourceTree = "<group>"; };
 		B135BA75253A1CB100B98F34 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		B156598125834ADC00112F15 /* MottoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MottoViewController.swift; sourceTree = "<group>"; };
+		B15659872583664600112F15 /* ContactViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactViewController.swift; sourceTree = "<group>"; };
+		B156598A258367D700112F15 /* ContactStruct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactStruct.swift; sourceTree = "<group>"; };
 		B176A85E253975AF00EA3EE6 /* Holiday.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Holiday.swift; sourceTree = "<group>"; };
 		B176A8602539780A00EA3EE6 /* HolidayRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HolidayRequest.swift; sourceTree = "<group>"; };
 		B1B735512538BDAA00BA1B14 /* Midterm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Midterm.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -45,13 +50,12 @@
 		B1B735622538BDAC00BA1B14 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B1B735682538CE0300BA1B14 /* CalendarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarViewController.swift; sourceTree = "<group>"; };
 		B1DA03172539C55B00DB699D /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
-		B1DA03192539EDD700DB699D /* CountryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryViewController.swift; sourceTree = "<group>"; };
-		B1DA031B253A014200DB699D /* CustomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
-		B1E8D73F253AED4800AEC11E /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
-		B1E8D741253AF01D00AEC11E /* Custom2TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Custom2TableViewCell.swift; sourceTree = "<group>"; };
 		B1E8D749253B611100AEC11E /* DevelopersViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DevelopersViewController.swift; sourceTree = "<group>"; };
 		B1E8D74B253B619A00AEC11E /* UserViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserViewController.swift; sourceTree = "<group>"; };
 		B1E8D74D253B61EA00AEC11E /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
+		B1F741D72580BFF10061C121 /* ToDoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoViewController.swift; sourceTree = "<group>"; };
+		B1F741DA2580C0370061C121 /* DatePickerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerViewController.swift; sourceTree = "<group>"; };
+		B1F741DD2580C1710061C121 /* ThingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThingsViewController.swift; sourceTree = "<group>"; };
 		B4D40B16A7C0D5A586F583E7 /* Pods_Midterm.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Midterm.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CECB1DFA5BD938FE2DDD9068 /* Pods-Midterm.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Midterm.release.xcconfig"; path = "Target Support Files/Pods-Midterm/Pods-Midterm.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -100,15 +104,17 @@
 				B176A85E253975AF00EA3EE6 /* Holiday.swift */,
 				B176A8602539780A00EA3EE6 /* HolidayRequest.swift */,
 				B1DA03172539C55B00DB699D /* MapViewController.swift */,
-				B1DA03192539EDD700DB699D /* CountryViewController.swift */,
-				B1DA031B253A014200DB699D /* CustomTableViewCell.swift */,
 				B135BA75253A1CB100B98F34 /* LoginViewController.swift */,
-				B1E8D73F253AED4800AEC11E /* DetailViewController.swift */,
-				B1E8D741253AF01D00AEC11E /* Custom2TableViewCell.swift */,
 				B1E8D749253B611100AEC11E /* DevelopersViewController.swift */,
 				B1E8D74B253B619A00AEC11E /* UserViewController.swift */,
 				B1E8D74D253B61EA00AEC11E /* Models.swift */,
 				B119D99E2547C53C0001C9FC /* HolidaysTableViewController.swift */,
+				B1F741D72580BFF10061C121 /* ToDoViewController.swift */,
+				B1F741DA2580C0370061C121 /* DatePickerViewController.swift */,
+				B1F741DD2580C1710061C121 /* ThingsViewController.swift */,
+				B156598125834ADC00112F15 /* MottoViewController.swift */,
+				B15659872583664600112F15 /* ContactViewController.swift */,
+				B156598A258367D700112F15 /* ContactStruct.swift */,
 			);
 			path = Midterm;
 			sourceTree = "<group>";
@@ -246,16 +252,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				B119D99F2547C53C0001C9FC /* HolidaysTableViewController.swift in Sources */,
-				B1E8D742253AF01D00AEC11E /* Custom2TableViewCell.swift in Sources */,
 				B1E8D74C253B619A00AEC11E /* UserViewController.swift in Sources */,
-				B1DA031A2539EDD700DB699D /* CountryViewController.swift in Sources */,
+				B1F741DB2580C0370061C121 /* DatePickerViewController.swift in Sources */,
+				B15659882583664600112F15 /* ContactViewController.swift in Sources */,
 				B176A8612539780A00EA3EE6 /* HolidayRequest.swift in Sources */,
 				B176A85F253975AF00EA3EE6 /* Holiday.swift in Sources */,
-				B1E8D740253AED4800AEC11E /* DetailViewController.swift in Sources */,
 				B1B735692538CE0300BA1B14 /* CalendarViewController.swift in Sources */,
+				B156598B258367D700112F15 /* ContactStruct.swift in Sources */,
+				B156598225834ADC00112F15 /* MottoViewController.swift in Sources */,
 				B1B735592538BDAA00BA1B14 /* ViewController.swift in Sources */,
-				B1DA031C253A014200DB699D /* CustomTableViewCell.swift in Sources */,
 				B1E8D74A253B611100AEC11E /* DevelopersViewController.swift in Sources */,
+				B1F741DE2580C1710061C121 /* ThingsViewController.swift in Sources */,
+				B1F741D82580BFF10061C121 /* ToDoViewController.swift in Sources */,
 				B1E8D74E253B61EA00AEC11E /* Models.swift in Sources */,
 				B1B735552538BDAA00BA1B14 /* AppDelegate.swift in Sources */,
 				B1B735572538BDAA00BA1B14 /* SceneDelegate.swift in Sources */,
